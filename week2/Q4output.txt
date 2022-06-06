@@ -1,4 +1,0 @@
-
-Present 4
-Not Present 
-Present 8
